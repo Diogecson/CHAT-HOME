@@ -1,0 +1,4 @@
+{"sender":"Soares","text":"Oi","timestamp":"2025-04-12T01:10:22.069Z"}
+{"sender":"zuzu","text":"oi","timestamp":"2025-04-12T01:10:51.641Z"}
+{"sender":"Soares","text":"Oi","timestamp":"2025-04-12T01:13:51.503Z"}
+{"sender":"Esther","text":"Oi db com vcs","timestamp":"2025-04-12T01:24:30.411Z"}
